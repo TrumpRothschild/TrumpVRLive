@@ -1,0 +1,17 @@
+Target dependency graph (7 targets)
+Expecta in Pods, no dependencies
+FBSnapshotTestCase in Pods, no dependencies
+Specta in Pods, no dependencies
+Expecta+Snapshots in Pods, depends on:
+Expecta in Pods (explicit)
+FBSnapshotTestCase in Pods (explicit)
+Specta in Pods (explicit)
+TrumpVRLive in Pods, no dependencies
+Pods-TrumpVRLive_Example in Pods, depends on:
+TrumpVRLive in Pods (explicit)
+Pods-TrumpVRLive_Tests in Pods, depends on:
+Expecta in Pods (explicit)
+Expecta+Snapshots in Pods (explicit)
+FBSnapshotTestCase in Pods (explicit)
+Pods-TrumpVRLive_Example in Pods (explicit)
+Specta in Pods (explicit)
